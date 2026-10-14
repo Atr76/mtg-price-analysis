@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data (too large for GitHub)
+data/raw/
+database/*.db
+*.json
